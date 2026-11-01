@@ -85,21 +85,6 @@ NODE_ENV=development
 
 ## 🏃 Running the Application
 
-### Option A: Start Both Servers Together (Recommended)
-
-From the project root:
-
-```bash
-chmod +x dev.sh
-./dev.sh
-```
-
-> **Note:** Press `Ctrl + C` at any time to stop both servers gracefully.
-
----
-
-### Option B: Run in Separate Terminals
-
 **Terminal 1 — Backend API:**
 ```bash
 cd backend
